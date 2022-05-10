@@ -4,8 +4,8 @@
 
 /**
  * main - multiply 2 arg of num > 0
- * @argc: param count
- * @argv: param arr
+ * @argc: parameter count
+ * @argv: parameter arr
  * Return: int
  */
 int main(int argc, char *argv[])
