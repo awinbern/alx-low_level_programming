@@ -1,6 +1,6 @@
 /*
  * File: 0-sum_them_all.c
- * Author: Yovo Koffi Vianney
+ * Author: Akudbilla Bernice
  */
 
 #include "variadic_functions.h"
